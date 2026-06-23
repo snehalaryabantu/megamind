@@ -1,0 +1,7 @@
+gradio
+chromadb
+ollama
+pytesseract
+python-docx
+Pillow
+requests
