@@ -1,6 +1,5 @@
-gradio
+gradio==4.44.0
 chromadb
-ollama
 pytesseract
 python-docx
 Pillow
