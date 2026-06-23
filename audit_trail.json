@@ -1,0 +1,262 @@
+[
+  {
+    "timestamp": "2026-03-06 13:44:45",
+    "company": "adani group",
+    "decision": "REJECT",
+    "final_score": 47.5,
+    "red_flags_count": 1,
+    "red_flags": [
+      "Net worth erosion"
+    ],
+    "officer_notes": "",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-06 13:59:56",
+    "company": "Tata Motors",
+    "decision": "APPROVE WITH CONDITIONS",
+    "final_score": 65.5,
+    "red_flags_count": 1,
+    "red_flags": [
+      "TCS Q3 result: AI revenue growth may be a sign of increasing competition"
+    ],
+    "officer_notes": "",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-06 23:16:53",
+    "company": "adani group",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 61.5,
+    "red_flags_count": 4,
+    "red_flags": [
+      "Debt-equity ratio at 0.43, below RBI norms",
+      "Promoter pledge percentage at 40.5% above 50%",
+      "Net worth erosion of 3.1%",
+      "Sectoral exposure limits, SEBI circulars, GST council notifications, IIP trend"
+    ],
+    "officer_notes": "Bank statement shows 4 suspicious round-trip transactions. CIBIL score 590. Transfer to related parties detected.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-06 23:23:23",
+    "company": "adani group",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 57.1,
+    "red_flags_count": 1,
+    "red_flags": [
+      "GSTR-3B vs GSTR-2A Mismatch"
+    ],
+    "officer_notes": "Bank statement shows 4 suspicious round-trip transactions. CIBIL score 590. Transfer to related parties detected.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-06 23:38:23",
+    "company": "adani group",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 56.4,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-07 10:04:44",
+    "company": " lg electronics",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 57.5,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 11:46:52",
+    "company": "Byjus",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 54.0,
+    "red_flags_count": 2,
+    "red_flags": [
+      "Byju's has faced significant financial challenges, including a decline in valuation and a lawsuit from lenders.",
+      "The company has laid off a significant number of staff members, which may indicate operational issues."
+    ],
+    "officer_notes": "Company under NCLT insolvency proceedings. ED investigation for FEMA violations. Promoter Raveendran facing fraud allegations. Auditor Deloitte resigned. Lenders declared wilful defaulter.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 11:58:07",
+    "company": "byjus",
+    "decision": "REJECT",
+    "final_score": 45.2,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "Company under NCLT insolvency proceedings. ED investigation for FEMA violations. Promoter Raveendran facing fraud allegations. Auditor Deloitte resigned. Lenders declared wilful defaulter.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 12:12:15",
+    "company": "byjus",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 50.0,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "Company under NCLT insolvency proceedings. ED investigation for FEMA violations. Promoter Raveendran facing fraud allegations. Auditor Deloitte resigned. Lenders declared wilful defaulter.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 12:23:08",
+    "company": "byjus",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 57.5,
+    "red_flags_count": 2,
+    "red_flags": [
+      "Byju's has faced criticism over its treatment of employees, including a reported 5% layoff of its workforce",
+      "The company has been accused of not following proper tax procedures, including a mismatch between its GST returns and bank statements"
+    ],
+    "officer_notes": "Company under NCLT insolvency proceedings. ED investigation for FEMA violations. Promoter Raveendran facing fraud allegations. Auditor Deloitte resigned. Lenders declared wilful defaulter.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 12:39:38",
+    "company": "byjus",
+    "decision": "REJECT",
+    "final_score": 26.5,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "Company under NCLT insolvency proceedings. ED investigation for FEMA violations. Promoter Raveendran facing fraud allegations. Auditor Deloitte resigned. Lenders declared wilful defaulter.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 13:53:45",
+    "company": "byjus",
+    "decision": "REJECT",
+    "final_score": 26.5,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "Company under NCLT insolvency proceedings. ED investigation for FEMA violations. Promoter Raveendran facing fraud allegations. Auditor Deloitte resigned. Lenders declared wilful defaulter.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-10 14:05:48",
+    "company": "Reliance Industries",
+    "decision": "REFER TO CREDIT COMMITTEE",
+    "final_score": 54.0,
+    "red_flags_count": 0,
+    "red_flags": [],
+    "officer_notes": "Strong management team. Factory operating at full capacity. No litigation. Promoter confidence high. Consistent dividend payer.",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  },
+  {
+    "timestamp": "2026-03-12 23:06:22",
+    "company": "BYJUS",
+    "decision": "REJECT",
+    "final_score": 30.0,
+    "red_flags_count": 4,
+    "red_flags": [
+      "Byju's is struggling to close $800 million funding round",
+      "Company is facing challenges in growth",
+      "Mukesh Ambani's comments on stable leadership",
+      "ONGC's talks with ExxonMobil for joint bids"
+    ],
+    "officer_notes": "",
+    "data_sources": [
+      "ChromaDB Vector Store",
+      "Ollama LLM",
+      "Web Crawler",
+      "Structured Input"
+    ],
+    "model": "llama3.2",
+    "framework": "RBI Five Cs Credit Appraisal"
+  }
+]

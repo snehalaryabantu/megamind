@@ -1,0 +1,69 @@
+{
+  "company": "BYJUS",
+  "final_score": 30.0,
+  "decision": "REJECT",
+  "rate": "N/A",
+  "scores": {
+    "Character": {
+      "score": 50,
+      "rating": "Fair",
+      "key_findings": [],
+      "red_flags": [],
+      "reasoning": "Analysis completed."
+    },
+    "Capacity": {
+      "score": 0,
+      "rating": "Poor",
+      "key_findings": [
+        "Byju's faces challenges in growth",
+        "Company is struggling to close $800 million funding round"
+      ],
+      "red_flags": [
+        "Byju's is struggling to close $800 million funding round",
+        "Company is facing challenges in growth"
+      ]
+    },
+    "Capital": {
+      "score": 50,
+      "rating": "Fair",
+      "key_findings": [],
+      "red_flags": [],
+      "reasoning": "Analysis completed."
+    },
+    "Collateral": {
+      "score": 50,
+      "rating": "Fair",
+      "key_findings": [],
+      "red_flags": [],
+      "reasoning": "Analysis completed."
+    },
+    "Conditions": {
+      "score": 0,
+      "rating": "Poor",
+      "key_findings": [
+        "Reliance Industries' performance",
+        "India's economic growth momentum"
+      ],
+      "red_flags": [
+        "Mukesh Ambani's comments on stable leadership",
+        "ONGC's talks with ExxonMobil for joint bids"
+      ],
+      "reasoning": "The report has a poor score due to the lack of specific data and analysis on Reliance Industries' performance and India's economic growth momentum. The report also highlights some red flags, such as Mukesh Ambani's comments on stable leadership and ONGC's talks with ExxonMobil for joint bids, which may indicate potential risks or challenges in the sector."
+    }
+  },
+  "red_flags": [
+    "Byju's is struggling to close $800 million funding round",
+    "Company is facing challenges in growth",
+    "Mukesh Ambani's comments on stable leadership",
+    "ONGC's talks with ExxonMobil for joint bids"
+  ],
+  "officer_notes": "",
+  "structured_data": {
+    "gst_turnover": 150,
+    "bank_credits": 320,
+    "ebitda": 15,
+    "itr_income": 40,
+    "interest": 55,
+    "principal": 35
+  }
+}
